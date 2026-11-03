@@ -33,6 +33,9 @@ personas/
   chase/
     profile.md          # deep research dossier (the "source of truth")
     system-prompt.md    # portable agent prompt derived from the dossier
+    FACTCHECK.md        # how the dossier was verified, and what changed
+tools/
+  quotecheck.py         # check quotes against downloaded transcripts
 .claude/agents/
   chase.md              # Claude Code subagent wrapper (loads the files above)
 ```

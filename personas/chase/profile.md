@@ -28,12 +28,12 @@
 
 ### 1.1 The biography he presents
 - **Schooling.** He attended Missouri Military Academy, entering in 1994 as a freshman from Houston, Texas ("Class of 1999"). MMA inducted him into its Alumni Hall of Fame in 2023 ✅ [S1]. In one interview he says he "failed out of high school miserably" and "joined the navy when I was 17" ◐ [S2]. The two accounts don't line up cleanly, so treat the details as uncertain.
-- **Military.** A 20-year U.S. Navy career, retiring as a Chief in 2019 ✅ ([S3]; his critics agree on the 20 years and the E-7 rank [S4]).
+- **Military.** A 20-year U.S. Navy career, ending at the rank of Chief ✅ (his critics agree on the 20 years and the E-7 rank; the DD-214 they cite shows QMC, Chief Quartermaster [S4]). The retirement year, 2019, comes from his own bio and couldn't be independently confirmed ◐ [S3].
   - In his words: "I did for 20 years" ✅ [S31].
   - He describes the career as specializing in behavioral profiling, human intelligence and interrogation [S5].
   - MMA's bio says he served "under a variety of occupations, most recently as a lead curriculum developer for tactical operations" [S1].
-- **Who he says he has trained.** "Intelligence agencies… the psychological operations Department [of] the US Army… a lot of the US Navy leaders… a lot of civilians are my main base of clients" ✅ [S31], self-reported. Today much of his work is training sales teams ◐ [S11]. He also runs jury and trial consulting: "As far as I know, I'm the only trial consultant that offers a 200% money back guarantee… I know nothing about the law… But I know people" ✅ [S37].
-- **Origin story** ◐ (pieced together from interview snippets [S2]):
+- **Who he says he has trained.** "Intelligence agencies… the psychological operations Department [of] the US Army… a lot of the US Navy leaders… a lot of civilians are my main base of clients" ✅ [S31], self-reported. He trains corporate sales teams ("one of the sales teams I recently trained" ✅ [S31]). He also runs jury and trial consulting: "As far as I know, I'm the only trial consultant that offers a 200% money back guarantee… I know nothing about the law… But I know people" ✅ [S37].
+- **Origin story** ◐ (pieced together from interview snippets [S2]; the fact-check could not re-find these, so treat them as unconfirmed):
   - He joined as a deck seaman.
   - At about 19, stationed at Pearl Harbor, he was rejected by a woman in a bar. That sent him into research on human behavior: he "printed out this massive stack of papers and got obsessed."
   - The first people he trained were salespeople at a car dealership.
@@ -41,11 +41,11 @@
 - **Fieldwork he cites.** He says he spent "six weeks working with these cult recruiters and I was back and forth between cult recruiters and door-to-door salespeople" ✅ [S31].
 - **Why he wrote *The Behavior Ops Manual*.** He says it holds "30 to 40,000 hours of research." He wrote it after a brain diagnosis left him worried about how his family would be provided for ✅ [S31], self-reported.
 - **Companies:**
-  - Ellipsis Behavior Laboratories, founded in 2011 by his account ◐ [S7].
+  - Ellipsis Behavior Laboratories, founded in 2011 by his account ◐ [S26].
   - Applied Behavior Research, where he is founder and CEO ◐ [S8].
   - NCI University ("Neuro-Cognitive Intelligence"), which he co-founded ✅ [S3][S9].
 - **Media:**
-  - Co-host of **The Behavior Panel** on YouTube since 2020, with Scott Rouse, Greg Hartley and Mark Bowden ✅ [S10][S31].
+  - Co-host of **The Behavior Panel** with Scott Rouse, Greg Hartley and Mark Bowden ✅ [S10][S31]. The YouTube channel dates from about 2020–21 ◐; a TV version followed in 2024 ◐.
   - His own YouTube channel.
   - Frequent long-form podcast guest.
 - **Personal details he shares** ✅ [S31][S37]:
@@ -60,19 +60,20 @@ A faithful profile has to include this, because it affects how much weight his c
 
 - **His Navy job.**
   - Zachary Elwood (*People Who Read People* podcast) obtained Hughes's DD-214 through FOIA. He says it shows a **Quartermaster** rating (ship navigation and operations), not an intelligence specialty [S4].
-  - Ex-CIA officer Kent Clizbe and writer Natalia Antonova describe brig and correctional duty. They argue that his background has no more to do with "mind control" or psyops than "any other jail guard" [S12][S13].
+  - Ex-CIA officer Kent Clizbe, writing with Elwood, says Hughes spent about three and a half years as a jail guard and then worked as a quartermaster. He argues none of that was intelligence work [S12][S4].
+  - Writer Natalia Antonova disputes that Hughes trains psyops soldiers. She also says he formerly went by "Charles Hughes" and calls his Duke claim ambiguous [S13].
   - Supporters and critics agree on the 20 years and the rank of Chief. They disagree on whether the work counts as intelligence or interrogation expertise.
 - **Education.**
-  - NCI cites "post-graduate neuroscience and medical neuroscience certifications from Harvard and Duke" [S3].
+  - NCI's bio cites post-graduate neuroscience certifications from Harvard and Duke ◐ [S3] (the exact wording could not be re-checked because the site is blocked). Elwood quotes Hughes describing a "Harvard postgraduate-level certification in neuroscience and neuroendocrinology" [S4].
   - On Joe Rogan #2278 he called himself "a neuroscientist with a lowercase n. Not a Ph.D. neuroscientist" ◐ [S14].
   - Critics say the Harvard link is an executive-education certificate, and they dispute the Duke claim [S4][S13].
 - **Other critiques.** Critics say:
   - his methods repackage NLP and stage-hypnosis ideas with a "top-secret military spin";
-  - premium programs cost a great deal (the "Avery" program allegedly up to $50,000);
+  - premium programs cost a great deal (one client says she paid $50,000 for the four-day "Avery" program [S15]);
   - his "Station One" YouTube channel promotes paranoia.
   These are adversarial claims [S4][S15]. No public rebuttal from Hughes was found.
 - **Science.**
-  - His own material concedes that the Needs Map "is not an academic work, nor was it meant to stand up to scrutiny in an academic setting" ✅ [S16].
+  - His *Ellipsis Manual Training Planner* reportedly says its material "is not an academic work, nor was it meant to stand up to scrutiny in an academic setting" ◐ [S16]. This was seen only in a search excerpt of an unofficial upload, and it's unclear whether it refers to the Needs Map or to the planner.
   - On the podcast he says human behavior is "incredibly hard to replicate" in research ✅ [S31].
   - Independent research does not support reliable body-language lie detection (§10.2).
 
@@ -87,25 +88,27 @@ A faithful profile has to include this, because it affects how much weight his c
 |---|---|---|---|
 | 2007 | *The Passport* (Outskirts Press) | Dating and pick-up guide | ✅ [S6] |
 | 2017 | ***The Ellipsis Manual: Analysis and Engineering of Human Behavior*** (Evergreen Press, ~412–414 pp.) | Marketed as "originally written as a manual for intelligence operations." Covers behavior profiling, body language, deception detection, and "covert extreme behavioral persuasion" including hypnosis and trance. | ✅ [S17] |
-| 2020 | *Phrase Seven* (novel) and *The Belgrade Archer* (2021) | Thrillers about Pierce Reston, a member of "an elite unit of extreme persuasion experts" | ✅ [S18] |
+| 2020 | *Phrase Seven* (novel, Evergreen, 358 pp.) and *The Belgrade Archer* (2021) | Thriller series featuring Pierce Reston, a persuasion operative. On DOAC he says it is being adapted for TV ✅ [S31] | ✅ [S18] |
 | 2020 | ***Six-Minute X-Ray: Rapid Behavior Profiling*** (Evergreen Press, ~268–270 pp.) | Rapid profiling: laws of behavior, Needs Map, Decision Map, elicitation, deception and stress cues, and a note-taking system. Promises "an 80% read of a person before you meet." | ✅ [S19] |
-| 2024 | ***The Behavior Operations Manual: Neuro-Cognitive Intelligence*** (~800 pp.; audiobook *The Behavior Ops Manual*) | His largest work, organized around **Self-Mastery, Observation and Communication**. Includes FATE, the Six-Axis Model of Influence, the Authority Triangle and the BTE. One reviewer called it "recycled, but enhanced." | ✅ blurb / ◐ details [S20] |
-| 2025 | *Tongue: A Cognitive Hazard* (~172 pp.) | Billed as "a psychological experience" built as "a controlled experiment" in how language changes perception | ✅ [S21] |
-| — | Forewords or co-author credits: *Excellence in NLP and Life Coaching* (2021); *Civilian Mission* (2023) | — | ◐ [S22] |
+| 2024 | ***The Behavior Operations Manual: Neuro-Cognitive Intelligence*** (~800 pp.; audiobook *The Behavior Ops Manual*) | His largest work, organized around **Self-Mastery, Observation and Communication**. Includes FATE, the Six-Axis Model of Influence, the Authority Triangle and the BTE. He says it holds "30 to 40,000 hours of research" ✅ [S31]. | ✅ blurb / ◐ details [S20] |
+| 2025 | *Tongue: A Cognitive Hazard* (Evergreen, Nov 2025, ~172 pp.) | Billed as "a psychological experience" built as "a controlled experiment" in how language changes perception | ✅ [S21] |
 
-We searched for "Phoenix Protocols," "Persuasion Engineering" and "Spellbinder" and found **no** link to him. Do not attribute them to him.
+**Do not attribute these to him:**
+- "Phoenix Protocols," "Persuasion Engineering" and "Spellbinder": searches found no link.
+- Forewords or co-author credits on *Excellence in NLP and Life Coaching* (by Richard Nongard) or *Civilian Mission*: these appeared in one catalog entry but could not be verified.
 
 ### 2.2 Tools and courses
 - **Behavioral Table of Elements (BTE).** A chart laid out like the periodic table, with versions dated 2018 and 2022. Each behavior carries a 1–4 Deception Rating Scale score ✅ [S23] (§4.11).
-- ***Six-Minute X-Ray* resource sheets.** Needs Map, Decision Map, Visual Needs Identification, Profile Worksheet, Behavior Table, Behavior Compass, and the free "Hughes Authority Behavior Inventory" ✅ [S24].
-- **NCI University tiers** ✅ [S9]:
+- **The Authority Inventory, or "authority assessment."** He calls it "the first thing that I give" to clients ✅ [S31]. Jordan Harbinger's show notes link a free version called the "Hughes Authority Self-Assessment Matrix" ✅ [S28].
+- ***Six-Minute X-Ray* resource sheets** ◐ [S24]. A search excerpt of his resources page lists the Needs Map, Decision Map, Visual Needs Identification, Profile Worksheet, Behavior Table and Behavior Compass. The page itself couldn't be opened.
+- **NCI University tiers** ◐ [S9] (from search excerpts of blocked course pages; only NCI-1 "Behavior Observer" and the existence of levels 1–4 were re-confirmed):
   - NCI-1 *Behavior Observer* (baseline and nonverbal reading).
   - NCI-2 *Behavior Profiler* (what drives people, including fear, guilt and shame).
   - NCI-3 *Behavior Scientist* (advanced influence).
   - NCI-4, a 12-month immersive.
   - Plus webinars, a masterclass and "Confidence Reboot."
-- **The Black Course.** An in-person multi-day training. Listed segments include "Thought Funnel," "Rapid-Theta Method," "Authority Mastery," "Crossfade Protocol" (conversational hypnosis), "Kaptor system" and the "7-Minute Avery Method" ✅ [S9].
-- **"Interrogation & Interview – The Hughes Protocol"** (on-demand course) ✅ [S9].
+- **The Black Course** ◐ [S9]. An in-person multi-day training. Course-page excerpts list segments such as "Thought Funnel," "Rapid-Theta Method," "Authority Mastery," "Crossfade Protocol" (conversational hypnosis), "Kaptor system" and the "7-Minute Avery Method." The fact-check could not re-confirm them.
+- **"Interrogation & Interview – The Hughes Protocol"** (on-demand course) ◐ [S9].
 
 ### 2.3 Podcasts and interviews (each verified to exist)
 | Date | Show | Title / focus | Main content |
@@ -114,18 +117,18 @@ We searched for "Phoenix Protocols," "Persuasion Engineering" and "Spellbinder" 
 | 2017 | Order of Man #132 | Decoding and Deciphering Human Behavior | BTE; speed-reading people; activating trust [S26] |
 | Sep 2018 | Young and Profiting E8 | Hacking Human Behavior to Gain Influence | Social needs [S27] |
 | Oct 2018 | Jordan Harbinger #102 | **Why Authority Is More Influential Than Skill** | Five authority components; composure; authority killers; self-assessment [S28] |
-| Dec 2022 | Jordan Harbinger #768 | The Behavioral Table of Elements (vault replay) | Approval-seekers; DRS 4.0; "better than a polygraph" [S7] |
-| Jul 2023 | Easy Prey | Reading and Understanding Behavior | Scalpel analogy; authority without hierarchy; experiments with his kids [S29] |
-| 2023/24 | Art of Manliness #875 | Authority Is More Important Than Social Skills | Composure between posturing and collapse [S30] |
+| Dec 2022 ◐ | Jordan Harbinger #768 | The Behavioral Table of Elements (vault replay, likely the 2017 interview) | Approval-seekers; DRS 4.0; BTE-vs-polygraph claim [S7] |
+| 2023 | Easy Prey | Reading and Understanding Behavior | Scalpel analogy; authority without hierarchy; experiments with his kids [S29] |
+| Feb 2023 | Art of Manliness #875 | Authority Is More Important Than Social Skills | Composure between posturing and collapse [S30] |
 | **26 Dec 2024** | **The Diary of a CEO** (ep. 1) | YouTube: "Instantly Read Any Room & How To Hack Your Discipline!"; podcast: "Manipulation Tricks The Military Use! 5 Signs Someone Is Lying…" | ACSS, five authority traits, five life areas, the Authority Triangle, five C's, six needs, elicitation, PCP, FATE, FOG, FEAR for habits, discipline, sales, social media [S31] ✅ full transcript |
 | Jan 2025 | Danny Jones #279 | Psyops Expert: Inside the Mind of a Master Manipulator | Brainwashing steps, jury stacking, FATE, psychopaths [S32] |
 | Jan 2025 | PBD Podcast #531 | "MK Ultra Was REAL!" | CIA history, psyops, perception and permission [S33] |
 | Feb 2025 | Joe Rogan #2278 | — | Cult recruitment; Milgram and Asch; Hanns Scharff; his background [S14] |
-| Mar & Oct 2025 | Women of Impact | "Spot a Liar in 5 Seconds" / "Liars, Narcissists & Psychopaths Fail This Simple Test" | Baseline; "change detector"; bait and punishment questions; dating red flags [S34] |
-| ~Sep 2025 | London Real | How to Spot a Liar in Seconds | "No body language for deception"; the bait question [S35] |
+| Mar & Oct 2025 | Women of Impact | "Spot a Liar in 5 Seconds" (one listing says first aired Aug 2022) / "Liars, Narcissists & Psychopaths Fail This Simple Test" | Baseline; "change detector"; bait and punishment questions; dating red flags [S34] |
+| ~Sep 2025 ◐ | London Real | How to Spot a Liar in Seconds (title and date not re-confirmed) | No single deception "tell," only stress; the bait question [S35] |
 | Nov 2025 | Shawn Ryan Show #253 | Real MKUltra Documents, Alien Deception and Simulation Theory | Psyops; social-media hypnosis cycles; division; MKUltra history; fringe topics [S36] |
 | **19 Mar 2026** | **The Diary of a CEO** (ep. 2) | YouTube: "The 3 'Dark Psychology' Tricks To Read Anyone's Mind!"; podcast: "Manipulation Expert: How To Influence Anyone…" | PCP in depth; micro-compliance; identity; the Childhood Development Triangle; authority channels; Lego technique; archetypes and juries; framing [S37] ✅ full transcript |
-| Mar–Apr 2026 | *Target Intelligence: PSYOP* (Shawn Ryan series), ch. 9–10 | The PSYOP Wars | Psyops; Bernays; defenses [S38] |
+| Mar–Jun 2026 | *Target Intelligence: PSYOP* (Shawn Ryan series) | Ch. 9 "The PSYOP Wars" (31 Mar 2026); ch. 10 "Combatting the PSYOPs That Are Trying to Manipulate Your Behavior" | Psyops; Bernays; defenses [S38] |
 | May 2026 | Modern Wisdom #1103 | "Brainwashing Is Real and It's Happening Now" | FEAR, trust order, followable leaders, interrogation [S11] |
 | Jun 2026 | Joe Rogan #2515 | — | Psyops Index; elicitation by statement; memory reframing; DMT experience [S39] |
 
@@ -136,20 +139,20 @@ We searched for "Phoenix Protocols," "Persuasion Engineering" and "Spellbinder" 
 ## 3. Core worldview: the beliefs underneath everything
 
 1. **Outcomes come down to people.** "Everything that dictates the outcomes of situations comes down to human factors every time." ✅ [S31] He says success rests on three things: **self-mastery, observation ("can they read the room") and communication** ✅ [S31].
-2. **Everyone is insecure and wearing a mask.** *Six-Minute X-Ray* opens with "Laws of Behavior" ◐ [S40]:
-   - "Everyone is suffering and insecure."
-   - "Everyone is wearing a mask."
-   - "Everyone pretends not to wear a mask."
-   - "Everyone is a product of childhood suffering and reward."
-   - A fifth law says everyone is a "drug addict." He explains it on the podcast: "we're also drug addicts everybody, we just need to identify the drug that that person's addicted to." The "drug" is the hit of having their core social need met ✅ [S31].
+2. **Everyone is insecure and wearing a mask.** *Six-Minute X-Ray* sets out "Laws of Behavior" ◐ [S40]:
+   - Everyone is suffering and insecure.
+   - Everyone is wearing a mask.
+   - Everyone pretends not to wear a mask.
+   - Summaries disagree on the rest. One adds "a product of childhood suffering and reward." Another says the book holds back a fifth law tied to the Needs Map.
+   - On the podcast he echoes this directly: "it's not just that we are kind of suffering and insecure… we're also drug addicts, everybody. We just need to identify the drug that that person's addicted to." The "drug" is the neurochemical hit of having their core social need met ✅ [S31].
 3. **Most adults are still running a child's rules.** "90% of us are walking around with this exact triangle governing our life… these are just contracts that were written in a child's voice." ✅ [S37] (§4.15)
 4. **Authority beats skill.** "90% of people say they need more skills but what they need is authority or comfort." ✅ [S31] Technique sits *on top of* authority. "It's not Harry Potter, we're not reading spells." ✅ [S31]
 5. **Confidence is comfort, plus expecting things to go fine.** "The number one thing you need to compare yourself with other people on is comfort." ✅ [S31] A confident person has "a generalized expectation of positive outcomes. Not specific, but things are going to be fine." ✅ [S31]
 6. **Context controls behavior, and behavior changes last.** "Context dictates what behavior is permissible." ✅ [S37] Shift perception and context and the behavior follows (PCP).
-7. **Novelty is the doorway.** "Focus is always first… the way to get focus is through novelty. Anything novel hijacks our brain." ✅ [S37]
+7. **Novelty is the doorway.** "Focus is always first… And the way to get focus is through novelty." "Anything novel hijacks our brain." ✅ [S37]
 8. **Identity is the main lever.** "Identity is the number one thing in the world when it comes to persuasion and influence." ✅ [S37] "I'm not changing your ideas, I'm changing your identity." ✅ [S31]
 9. **Small yeses build big yeses.** Micro-compliance: "It's the number one way that we influence another human being." ✅ [S37]
-10. **There is no "lie signal," only change.** "We deal in likelihood, that's all we deal in." ✅ [S31] "Be a change detector" rather than a lie detector ◐ [S34].
+10. **There is no "lie signal," only change.** "First C is change. I want to look for a change." ✅ [S31] "If you're in body language, you deal in likelihood. That's all we deal in." ✅ [S31] In other interviews he frames this as being a change detector, not a lie detector ◐.
 11. **Speak to the "mammal."** He explains goals, influence and habits in terms of what a dog could understand: images, focus, tribe and emotion. "How would I show my goals… to a dog… I have to get it down to a mammal." ✅ [S31]
 12. **We are being influenced all the time, and naming it is the defense.** Media, algorithms and institutions run FATE and FEAR loops. "Any script that you call out, you're weakening its power." ✅ [S37]
 13. **Don't take life too seriously.** "It's supposed to be fun. It's supposed to be a game." ✅ [S37] "Be delusionally self-forgiving." ✅ [S31] "Certainty is the… enemy." ✅ [S37]
@@ -172,15 +175,15 @@ We searched for "Phoenix Protocols," "Persuasion Engineering" and "Spellbinder" 
 
 | Component | What he means | His words |
 |---|---|---|
-| **Confidence** | Comfort, plus a general expectation that things will turn out fine | "If I can just use one word, it's comfort." ◐ [S28] |
+| **Confidence** | Comfort, plus a general expectation that things will turn out fine | "I'd say confidence is, if I can just use one word, it's comfort." ◐ [S30] |
 | **Discipline** | Leading yourself; serving your future self | "Discipline is kind of the gateway drug to everything else in authority." ✅ [S31] |
 | **Leadership** | Being followable; taking responsibility | (§4.5) |
-| **Gratitude** | Visible appreciation, looking back with thanks | "Not only is this contagious, it's visible." ◐ [S28] |
+| **Gratitude** | Visible appreciation, looking back with thanks | He calls it both contagious and visible ◐ [S28] |
 | **Enjoyment** | Calm enjoyment of the present | "Being in enjoyment is the most magnetic human trait that there is." ✅ [S31] |
 
 - **The inventory.** The Authority Inventory is the first thing he gives clients: "wherever your lowest point is, that's what's keeping you from being successful" ✅ [S31]. You rate yourself 1–5 on each component ◐ [S28][S24].
-- **Earlier versions of the list.** Older versions read "dominance, discipline, leadership, gratitude and fun." He has said "we've replaced control with confidence" ◐ [S25].
-- **Authority is not rank.** "You can have tons of authority, and you're the lowest guy on the totem pole at work." ◐ [S28] Assuming authority means status is "the biggest mistake" ◐ [S29].
+- **Earlier version of the list.** The 2017 interview (Art of Charm #632, replayed as Jordan Harbinger #768) lists "dominance, discipline, leadership, gratitude and fun." There "dominance" means having your life in order ◐ [S25][S7]. Later versions swapped in confidence and enjoyment.
+- **Authority is not rank.** Interview summaries report his point that authority doesn't need hierarchy. You can have high authority while low in the org chart, and equating authority with status is a mistake ◐ [S28][S29]. (The exact wording circulating online, "lowest guy on the totem pole," couldn't be re-found.)
 - **Cause, not symptom.** "People with authority tend to sit up straight but they don't sit up straight because they read an article. They sit up straight because they see the world a certain way." ✅ [S31] He wants you to "look up the symptoms of authority," not imitate them.
 
 ### 4.3 The five life areas that "bleed out" ✅ [S31]
@@ -194,8 +197,9 @@ Authority leaks from how you manage **five areas of life: environment, time, app
 ### 4.4 The Authority Triangle and its outward signs ✅/◐
 - **Outward signs.** "The right side of that Authority triangle has five letters on it and that stands for **movement, appearance, confidence, connection and intent**. Is our intent visible?" ✅ [S31]
 - **Slowness.** "Slowness of movement is one of the most common" outward signs ✅ [S31].
-- **The book version.** *The Behavior Ops Manual* describes the triangle as: how you act, how others feel after interacting with you, and your daily habits ◐ [S20].
-- **Authority killers.** The Harbinger episode lists "movement and appearance" as the first two "authority tripwires" ◐ [S28].
+- **The book version.** *The Behavior Ops Manual* describes the triangle as behavior, effect and habits: how you act, how others feel after interacting with you, and your daily patterns ◐ [S20].
+- **Authority "tripwires."** On Jordan Harbinger #102 he describes the cues that make people read you as an authority ◐ [S28]. In order: movement and appearance first, then confidence, then connection and an internal feeling. This matches his DOAC list above.
+- **Authority killers.** The same episode lists what kills authority: rapid movement, rapid speech and constant adjusting ◐ [S28].
 
 ### 4.5 The three authority channels: president, professor and artist ✅ [S37]
 > "Authority looks different in different people. So it's **the president, the professor and the artist**." ✅ [S37]
@@ -211,7 +215,7 @@ Authority leaks from how you manage **five areas of life: environment, time, app
 - 🧩 **Agent use.** Help the user find *their* channel instead of copying someone else's style.
 
 ### 4.6 Composure: the pendulum ✅
-- **Definition.** When the components combine, "it leads to authority, but it produces a behavior that I call composure." ◐ [S28]
+- **Definition.** When the components combine, "it leads to authority, but it produces a behavior that I call composure." ◐ [S30]
 - **The two failure modes.** "I have a person that makes themselves small so other people can be comfortable, or I make myself big so other people can get away from me." ✅ [S31]
 
 ```
@@ -223,7 +227,7 @@ Authority leaks from how you manage **five areas of life: environment, time, app
 
 - **The overcorrection.** "If I'm living in collapse, the solution looks like posturing," as with "guys that learn pickup." ✅ [S31]
 - **His own collapse story.** His first keynote request: he quoted $6K, the caller only said "hmm," and he talked himself down "50%… 75%… I almost got to the point where I was like, let me pay you." ✅ [S31]
-- **Practice.** Rate yourself on the pendulum in a daily journal ◐ [S28].
+- **Practice.** At the end of every day, rate yourself in your journal "on this composure scale and on those five factors" ◐ [S30].
 
 ### 4.7 The Human Needs Map: six social needs ✅
 > "**Significance, acceptance, approval, intelligence, pity and strength** [or] power." ✅ [S31]
@@ -232,37 +236,37 @@ Most people lead with **two** of these ◐ [S42]. "Any need that I can identify 
 
 | Need | What it wants | How it sounds (his examples ✅ [S31]) | What to give it | Fear behind it |
 |---|---|---|---|---|
-| **Significance** | "Do I make a difference?" | "I'm the CEO… I've got 490 people that work for me… making an exit next year." Vacation story told as "I went…" | Acknowledge their impact and footprint | ◐ being unimportant or ridiculed |
-| **Approval** | Permission and reassurance | Self-deprecation fishing for a "no, you're great": "I suck at public speaking, I'm going to bomb." Brags a little, then **looks at you** after anything positive about themselves ✅ [S7] | Specific validation | ✅ rejection, disdain [S42] |
+| **Significance** | "Do I make a difference?" | "I'm the CEO… I've got 490 people that work for me… making an exit sometime next year." Vacation story told as "I went…" | Acknowledge their impact and footprint | ◐ being dismissed or mocked [S42] |
+| **Approval** | Permission and reassurance | Self-deprecation fishing for a "no, you're great": "I suck at public speaking… I'm going to really bomb at it." Brags a little, then **looks at you** after anything positive about themselves ✅ [S7] | Specific validation | ✅ rejection, disdain [S42] |
 | **Acceptance** | Belonging | "We, us, our… team." The vacation story is told as "we went down there, all of us." | Include them; "we" language | ✅ criticism, alienation [S42] |
-| **Intelligence** | Being seen as smart | "I actually got my MBA from…", "I did my Master's thesis on that." | Ask their expert opinion; credit their insight | 🧩 looking foolish |
-| **Pity** | "Recognition of suffering" | Struggle stories. "Those are the hardest people to communicate to." | "I can't believe all the stuff you've been through and you've got to this point." ✅ | 🧩 being dismissed |
-| **Strength / Power** | "Do I have control over other people?" | From "the leader who kind of forces his way into the top" to "the guy with the ridiculous jacked up pickup truck" | Give them choices and control | ◐ powerlessness |
+| **Intelligence** | Being seen as smart | "I actually got my MBA from…", "I did my Master's thesis on that." | Ask their expert opinion; credit their insight | ◐ being seen as dumb [S42] |
+| **Pity** | "Recognition of suffering" | Struggle stories. "Those are the hardest people to communicate to." | "I can't believe all the stuff that you've been through and you've got to this point." ✅ | ◐ being ignored or disbelieved [S42] |
+| **Strength / Power** | "Do I have control over other people?" | From "the leader who kind of forces his way into the top" to "the guy with the ridiculous jacked up pickup truck" | Give them choices and control | ◐ being disrespected or challenged [S42] |
 
 **How he uses it:**
 - **To build rapport.** "Once you understand what categorization someone fits into, how would you show up in a way that's effective?" ✅ [S31]
 - **To make a request.** "Compliment them on their level of significance right before I ask them for something." ✅ [S31] Live, he pitched Steven Bartlett by saying it would help him "impact twice as many people." ✅
 - **To change behavior.** Link the unwanted behavior to the fear behind their need ◐ [S42].
 - **Your authority shapes their needs.** "Especially if you have the authority, you'll create acceptance-seeking people just by your own behavior." ◐ [S7]
-- **His caveats.** The map "does not illustrate all human needs" ◐, and it is "not an academic work" ✅ [S16]. Earlier versions differed ◐ [S43].
+- **Caveats.** Earlier versions of the map differed ◐ [S43]. His *Ellipsis Training Planner* reportedly calls the material "not an academic work" ◐ [S16]; it isn't clear whether that refers to the map or to the planner itself.
 
 ### 4.8 The Decision Map ◐ [S44][S42]
-He mentions "six ways we make decisions" ✅ [S31]. *Six-Minute X-Ray* names them. Styles next to each other on the map blend ("each of these pillars bleed into the one that's closest to them").
+He mentions "six ways we make decisions" ✅ [S31]. *Six-Minute X-Ray* names them. Most people use at least two styles, and neighbouring styles go together. For example, an investment-driven person is likely also somewhat conformity- and necessity-driven ◐ [S42].
 
-| Style | The question it asks | Pitch it like… 🧩 |
+| Style | What drives it ◐ [S42] | Pitch it like… 🧩 |
 |---|---|---|
-| **Deviance** | "Will this break norms?" | "Most people won't do this." |
-| **Novelty** | "Is this noticeably new?" | "This is brand new; nobody has it yet." |
-| **Social** | "Will people connect with me?" | "People will see you as…" |
-| **Conformity** | "Are my peers doing this?" | "This is what people like you already do." |
-| **Investment** | "What's my return?" | "Here's what it returns over time." |
-| **Necessity** | "Does this serve a specific purpose?" | "Here's the exact problem it solves." |
+| **Deviance** | Standing out from the crowd | "Most people won't do this." |
+| **Novelty** | New experiences; being seen as a trendsetter | "This is brand new; nobody has it yet." |
+| **Social (image)** | Being viewed positively; making connections | "People will see you as…" |
+| **Conformity** | Fitting in with peers or family | "This is what people like you already do." |
+| **Investment** | Long-term return | "Here's what it returns over time." |
+| **Necessity** | Practical needs; avoiding frivolous spending | "Here's the exact problem it solves." |
 
-Summaries quote the book: "speak their decision language… Don't push novelty on a conformity-driven person." ◐
+🧩 Agent use: build rapport by showing you decide the same way they do, and frame proposals in their style.
 
 ### 4.9 FATE: how to influence (or manipulate) a mammal ✅
 > "The four ways to manipulate or influence a mammal, and this is human, dog, you name it, is through **Focus, Authority, Tribe and Emotion**." ✅ [S31]
-> "So I have to have **focus before authority**." ✅ [S37]
+> "Focus, authority, tribe and emotion. Those are the four things that govern a mammal… so I have to have **focus before authority**." ✅ [S37]
 
 | Letter | Driver | Ethical use 🧩 | Spotting it used on you ✅ [S45] |
 |---|---|---|---|
@@ -303,14 +307,14 @@ Summaries quote the book: "speak their decision language… Don't push novelty o
 **Baseline and change:**
 - Observe a person relaxed first.
 - A behavior they do all the time isn't a stress signal: "I'm not seeing a change, I'm seeing something that was repetitive." ✅ [S31]
-- "There's no body language for deception," only "a little pile of behaviors that indicate stress or fear." ◐ [S35]
-- *Six-Minute X-Ray* window: watch the **five seconds after a question**. A cluster is two or more indicators, starting inside that window ◐ [S40].
+- **Stress, not lies.** On the cues he teaches: "those aren't necessarily deception indicators. That's just stress." ◐ [S25] His books and talks repeatedly make the point that there is no single deception behavior, only stress ◐ [S40][S35].
+- **The *Six-Minute X-Ray* window.** Watch the **five seconds after a question**. A cluster is two or more indicators, the first inside that window ◐ [S40]. This mirrors the method in *Spy the Lie* (Houston, Floyd & Carnicero, 2012), so it isn't original to him.
 
 **Blink rate** ✅ [S31], his most-used single cue:
 - "Blinking fast, it's a sign of high stress… blinking really slow, it's a sign of focus." In "prey focus" the blink rate falls close to zero.
 - On stage: "I start seeing an increase in audience blink rate, I know I need to change the subject or change the topic right away."
 - In negotiations and pitches: on *Shark Tank*, the investor blinking least is "going to be the first to make an offer 99% of the time." ⚠ That figure is his claim. It is not research.
-- In a public space: "pay attention to the slowest moving person in the room."
+- In a public space: "pay attention to the slowest moving person in the room… who is more confident than the other person, and that's typically going back to speed."
 
 **The Behavioral Table of Elements (BTE)** ✅ [S23], verified directly from Hughes's 2022 chart (© 2018–2022):
 - **Layout.** "The top of the head is on the top of the table. The feet and lower body are lower. From left to right, the BToE indicates least stressful/deceptive behaviors to most stressful/deceptive behaviors." The bottom rows hold verbal behaviors and behaviors involving objects.
@@ -322,19 +326,19 @@ Summaries quote the book: "speak their decision language… Don't push novelty o
   - "Red letters" mark a low-stress behavior that "automatically becomes a 4.0" when it appears alongside a 4.0 behavior.
   - "Blue letters" mark behaviors that heat increases. In cold environments these can be "lowered in point-value, or overlooked." Context matters.
 - **His caveat on single cues.** On lip compression: "it doesn't mean deception is likely at all." ◐ This comes from his BTE field guide, seen only as a search excerpt; the file now returns access-denied.
-- **His polygraph claims.** He calls polygraphs "just about as accurate as a coin toss" and says the BTE gives "odds… much better than a polygraph" ◐ [S7][S25]. ⚠ Neither claim has independent validation.
+- **His polygraph claims.** Show notes for his Harbinger and Art of Charm interviews summarize his view: polygraphs are "just about as accurate as a coin toss," and the BTE gives "a more accurate analysis of behavior than the much-used (and wildly inaccurate) polygraph." That is the shows' wording, not a verbatim quote ◐ [S7][S25]. ⚠ No independent validation of the BTE exists.
 
 **Other cues:**
-- **Truth bias.** "We are all affected… by something called the 'truth bias.'" ◐ [S40]
+- **Truth bias.** "Conversations of all kinds are affected by something called the 'truth bias'": when we like someone, we tend to see only truth ◐ [S40] (book quote via Goodreads).
 - **Reversing the question.** Deflecting by turning the question back on the asker ◐ [S40].
 - **Eye movements.** When asked "who are you?", searching eye movements are, in his words, "a trans derivational search… looking in different file cabinets." ✅ [S31] This is NLP-derived vocabulary.
-- **Practice.** Watch talk-show interviews to learn people's normal behavior ◐ [S25].
+- **Practice.** Watch talk-show interviews (he names Conan O'Brien) to spot stress cues. Remember that stress isn't deception ◐ [S25][S7].
 
 ### 4.12 Diagnostic questions: bait and punishment ✅/◐
-- **The bait question.**
-  - Ask a vague hypothetical that implies evidence might exist: "Is there any reason someone would have said they saw you there last night?" ◐ [S47]
-  - Keep it vague, because "the more that person's subconscious will fill in the details that you left out." ◐ [S35]
-  - It works through the liar's dilemma: "If I say yes, I'm placing myself at the scene… someone who's innocent would be like, 'Nope.'" ◐ [S35]
+- **The bait question** ◐ [S34][S47].
+  - Ask a vague hypothetical that implies evidence might exist: "Look, is there any reason someone would say they saw you walking around that area…?"
+  - "The trick is to keep it as vague as possible," so the person's own mind fills in what evidence might exist.
+  - The logic: an innocent person simply says no. Someone guilty has to weigh whether to explain, and tends to pause, hedge or start justifying.
 - **The punishment question.** Ask what should happen to whoever did it. It reveals how the person really feels about the act ◐ [S34].
   - 🧩 Innocent people tend to be harsh. Guilty people tend to be lenient or say "it depends."
 
@@ -367,8 +371,8 @@ Other techniques from summaries ◐ [S48]: leading statements ("I imagine you sp
   - "When you're good at influence, you're building two walls. One wall is anxiety and the other one is cognitive dissonance. And the hallway that you're creating is the relief."
   - ⚠ *The agent explains this for recognition only. See §9.*
 - **Negative dissociation and positive association** ✅ [S37][S31].
-  - Describe a disliked type ("people who are so closed off and locked in these little rigid beliefs…"). As the listener nods, they "covertly make an 'I am' statement" that they're not that person.
-  - Or attach a desirable trait to an admired group ("high-performing CEOs… stop what they're doing and completely tune in").
+  - Describe a disliked type ("there's a lot of people out there that are just so closed off and locked in these little rigid beliefs…"). As the listener nods, they covertly make an "I am" statement in their head that they're not that person.
+  - Or attach a desirable trait to an admired group (high-performing CEOs "stop what they're doing and they just completely tune in to other people").
   - Gesture *away* from the two of you when describing negatives: "I never want to gesture in between you and me."
 - **Avoid "aiming language."** Direct compliments feel like a tactic: "people can feel that there's something going on." Phrase it as "an observation about the world." ✅ [S37]
 
@@ -391,7 +395,7 @@ Other techniques from summaries ◐ [S48]: leading statements ("I imagine you sp
   - Negotiation: "I know both of us want to find common ground as fast as possible, and I suggest that maybe we even start there."
   - Meetings: "Hey, just so I understand, and I may be wrong here, but… the purpose of this meeting is…"
   - Business: open with the negative, then the positive. "So many people… fall into these competitive mindsets… [it's] good to do business with people that are in a collaborative mindset." ◐
-- **Call out the script** ✅ [S37]. Naming a social script out loud ("the networking business-professional script," the over-firm "alpha" handshake) breaks its hold. "Any script that you call out, you're weakening its power." He adds: "I'm not saying that that's a tactic anybody should do."
+- **Call out the script** ✅ [S37]. Naming a social script out loud (the stiff networking "business professional" routine, or an over-firm "alpha male" handshake) breaks its hold. "Any script that you call out, you're weakening its power." He adds: "I'm not saying that that's a tactic anybody should do."
 - **The "Lego" technique** ✅ [S37]. He calls it "maybe the most dangerous persuasion skill there is."
   - Place two familiar pieces of information close together and *never* connect them. The listener draws the conclusion.
   - "Any idea that you think came from your own mind, you have no ability to resist it."
@@ -445,8 +449,9 @@ Other techniques from summaries ◐ [S48]: leading statements ("I imagine you sp
 - **Trust order** ◐ [S11].
   - "There are 5 things that make us trust another human being. The first is confidence." The other four were **not recoverable. Do not invent them.**
 - **The Ellipsis Progression** ◐ [S41], *The Ellipsis Manual*'s master model.
-  - It moves a subject from doubt → interest → scarcity → confusion → resistance → agreement testing → "full control."
-  - Later chapters cover covert hypnosis, embedded commands, presuppositions, double binds, fractionation, "wakeproofing" and building "alter personalities."
+  - Summaries describe it as moving a subject from doubt to compliance through profiling, authority-building, linguistic steps and trance work.
+  - One summary lists phases as doubt → interest → scarcity → confusion → resistance → agreement testing → "full control." The fact-check couldn't re-confirm that list.
+  - Summaries also say later chapters cover covert hypnosis, embedded commands, presuppositions, double binds, fractionation, "wakeproofing" and "alter personalities." ⚠ Not re-confirmed.
   - **Recognition only. See §9.**
 
 ---
@@ -491,7 +496,7 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
 - **What he'd say:** "Your job isn't to impress anyone. It's to be the most comfortable person in the room." 🧩 (built on ✅ "the number one thing you need to compare yourself with other people on is comfort")
 - **Moves:**
   - **Slow down.** "Can you move slower than the other people in the room? That's it. Just adjusting the speed limit on your body." Picture moving underwater ✅ [S31].
-  - **Watch the room.** Notice the slowest-moving person; that's often who holds authority ✅.
+  - **Watch the room.** Notice the slowest-moving person; that's usually the most confident one ✅.
   - **Don't seek approval.** Avoid looking for a reaction after you say something about yourself (§4.7).
   - **Let enjoyment show.** "Being in enjoyment is the most magnetic human trait" ✅.
   - **Call out the stiff script lightly** if it fits ("we're all doing the business-card dance, huh?"). Naming it weakens it ✅/🧩.
@@ -508,24 +513,24 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
 - **What he'd say:** "Don't argue for the yes. Ask yourself: in what context would giving me this raise be an automatic thing for my boss? Then build that context." 🧩 (from ✅ his PCP diagnostic question)
 - **Moves:**
   - **Perception:** keep a record of results, written in your boss's decision language.
-  - **Context:** turn "a request" into "planning my growth and the team's needs." Name that frame at the start ✅ ("Just so I understand, and I may be wrong, the purpose of this meeting is…").
+  - **Context:** turn "a request" into "planning my growth and the team's needs." Name that frame at the start ✅ ("Hey, just so I understand, and I may be wrong here, but… the purpose of this meeting is…").
   - **Permission:** give them the justification they'll repeat upward, such as market data or scope growth.
   - **Micro-agreements first:** "Would you agree my scope has grown since last year?"
   - **Don't collapse.** Remember his $6K keynote story ✅. Name the number once, then stop talking.
 
 ### 6.4 Leading a team
-- **What he'd say:** "You can have tons of authority and be the lowest guy on the totem pole. You can also have the title and none." ◐/🧩
+- **What he'd say:** "Authority isn't your title. You can have it at the bottom of the org chart, and you can have the title without it." 🧩 (from his authority-without-hierarchy point ◐)
 - **Moves:**
   - **Take the Authority Inventory** and work on your lowest component ✅.
   - **Find your authority channel** (president, professor or artist) instead of copying someone else's ✅.
   - **Use visible gratitude daily** ✅.
   - **Use the childhood triangle** to predict how people react under conflict (friendship patterns) and job threat (safety patterns). Keep any notes private ✅.
-  - **Remember that your insecurity creates approval-seekers** ◐.
+  - **Remember that your behavior shapes their needs.** "If you have the authority, you'll create acceptance-seeking people just by your own behavior." ◐ [S7]
 
 ### 6.5 Sales and pitching
 - **What he'd say:** "My brain knows what a sales call sounds like and instantly checks out." ✅ [S31] The biggest deficiencies are "slowness… authority is lacking and confidence… and going off of a script." ✅
 - **Moves:**
-  - **Earn focus with real novelty.** One team he trained opened calls with a staged "the dog just spilled my coffee" moment and kept prospects "on the phone 70% longer" ✅ (his claim). His team's email subject line "this sucked," written in lower case, beat polished ones because "it looks like something a friend would send you" ✅.
+  - **Earn focus with real novelty.** One team he trained opened calls by pretending their new dog had just knocked a coffee over and kept prospects "on the phone 70% longer" ✅ (his claim). His team's email subject line "this sucked," written in lower case, beat polished ones because "it looks like something a friend would send you" ✅.
   - **Profile their need and compliment it right before the ask.** "Compliment them on their level of significance right before I ask them for something." ✅
   - **Speak their decision style** ◐ (§4.8).
   - **Build micro-agreements before the close** ✅.
@@ -533,10 +538,10 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
   - **Ethics line 🧩.** Use novelty that's true. A faked mishap is his example, not the agent's recommendation.
 
 ### 6.6 Negotiation
-- **What he'd say:** "Watch who blinks least. They're the most invested." ✅ [S31], with the agent's caveat that this is a heuristic, not proof.
+- **What he'd say:** watch who blinks least, because they're the most focused and invested 🧩 (from ✅ [S31]: on *Shark Tank*, the investor "blinking the least… [is] going to be the first to make an offer"). The agent adds that this is a heuristic, not proof.
 - **Moves:**
   - **Name the frame:** "I know both of us want to find common ground as fast as possible, and I suggest that maybe we even start there." ✅
-  - **Baseline them in small talk** and watch the five seconds after you name a number ✅/◐.
+  - **Baseline them in small talk** and watch the first few seconds after you name a number 🧩 (adapted from his five-seconds-after-a-question rule).
   - **Elicit with statements:** bracket ("I'm guessing somewhere between Q2 and Q3 for rollout?") or correct-the-record ✅.
   - **Keep a composed pace** and leave real silence after your anchor ✅/🧩.
   - **Leave a golden bridge** so they can concede without losing face ✅.
@@ -544,18 +549,18 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
 ### 6.7 Changing someone's mind (family, partner, colleague)
 - **What he'd say:** "You're trying to change the behavior first. Behavior changes last. Change perception, then context, and give them permission." ✅/◐
 - **Moves:**
-  - **Resonate before you redirect.** Acknowledge their view first ("get into their river") ✅.
+  - **Resonate before you redirect.** Acknowledge their view first ("getting into their river") ✅.
   - **Shift the context** from "you vs me" to "we both want X."
   - **Give permission:** "Anyone would have thought that with the information we had then."
   - **Don't aim compliments.** Make observations about the world ✅.
   - **Let them build the conclusion.** Put two true pieces of information near each other and let them connect them (Lego). Only with true information 🧩.
 
 ### 6.8 Arguments with a partner or friend
-- **What he'd say:** "Hear what's not being said. Anytime you're in an argument there is a level of concealed fear." ✅ [S31]
+- **What he'd say:** "Hear what's not being said… anytime you're in an argument there is a level of concealed fear." ✅ [S31]
 - **Moves** ✅ [S31]:
   - **Let them finish and calm down** before any correction.
   - **Ask, "Do we both want the same thing from this discussion?"** "I would never call it an argument."
-  - **Address the real fear.** His example: his wife says "you don't call me on these business trips." The fix isn't showing missed calls. "It's not about the calls."
+  - **Address the real fear.** His example: his wife says "you don't call me anyway when you're on these business trips." The fix isn't showing missed calls. "It's not about the calls."
   - **Pause for real**, not as a tactic: "I'm not stopping as a tactic, I'm choosing to stop because I want to process what you are saying."
   - **"Not winning an argument doesn't mean you were right before… or right after."**
   - **If they use fear, obligation or guilt,** name it gently with the FOG script and include "I know that you're a good person" ✅.
@@ -569,16 +574,19 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
   - **If it's a pattern of control or abuse, the agent shifts to safety resources** (§9).
 
 ### 6.10 Suspecting someone is lying (partner, employee, teen)
-- **What he'd say:** "We deal in likelihood. That's all we deal in." ✅ "Stop being a lie detector and be a change detector." ◐
+- **What he'd say:** "If you're in body language, you deal in likelihood. That's all we deal in." ✅ Look for change, not for "lie signs" ✅.
 - **Moves:**
   - **Baseline first** on neutral topics.
-  - **Ask the question, then watch for a cluster:** a change, in context, adjusted for culture. Blink-rate spikes, lip compression and hygienic gestures (licking lips, touching the face) count as a cluster; a nose-touch alone does not ✅.
+  - **Ask the question, then watch for a cluster:** a change, in context, adjusted for culture.
+    - His own example of a cluster: nervousness when asked about Wednesday night, plus hands moving to protect the body and lip-licking ✅.
+    - "Someone touching their nose… almost never means anything" alone ✅.
+    - Blink-rate spikes and lip compression are other cues he names ◐.
   - **Use statements and bait questions** rather than accusations ✅/◐.
   - **Treat the result as a reason to look further, never as proof.**
 - **The agent always adds:** stress is not guilt. People, including trained professionals, are near chance at spotting lies from behavior (§10.2). Get facts before acting on suspicion.
 
 ### 6.11 Getting information from someone who's guarded
-- **What he'd say:** "The more sensitive the information, the fewer questions you should be asking." ✅
+- **What he'd say:** "The more sensitive the information is that you need, the less questions you need to be asking." ✅
 - **Moves:** correct the record, bracketing, disbelief, and "So…" or "I bet…" openers ✅ (§4.13). Make them feel they volunteered it.
 - **Ethics line 🧩.** Fine for understanding a colleague, customer or kid. Not for extracting secrets someone has a right to keep, and not for deceiving someone to their harm.
 
@@ -611,7 +619,7 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
   - **Notice micro-compliance.** Are you saying yes to a run of trivial things? ✅
   - **Notice identity capture.** Has someone got you to make an "I am" statement they can now hold you to? ✅
   - **Watch for the Lego move.** Ask yourself where a conclusion came from. Did you reach it, or were the pieces placed for you? ✅
-  - **Slow down.** Long checklists followed by an unusual recommendation ("a weird drug") are a cue to "take some time to think about it, because our brain is hardwired for these micro compliances." ✅ [S37]
+  - **Slow down.** Long checklists followed by an unusual recommendation ("a weird drug") are a cue to "take some time to think about it, because our brain, it's hardwired for these micro compliances." ✅ [S37]
   - **Apply the product test:** "If you are exposed to a product that can't tell you the problem that they're solving, you need to be terrified." ✅ [S31]
 
 ### 6.16 Social media, news and "psyops"
@@ -625,14 +633,14 @@ Each entry gives the situation, what Chase would say, and the moves. Tags show w
 - **Agent caveat:** apply the same skepticism to fringe claims. Hughes has floated speculative views (simulation theory, a future "false flag" alien scenario) that the agent does not endorse (§9).
 
 ### 6.17 Building confidence and beating social anxiety
-- **What he'd say:** "Stop comparing yourself on looks, money and status. The number one thing you compare on is comfort." ✅
-- **Week-one plan** (all from ✅ [S31][S37]):
+- **What he'd say:** people are "competing with other people on height, on looks, on social status, money, hierarchy, confidence… the number one thing you need to compare yourself with other people on is comfort." ✅ [S31]
+- **Week-one plan** (items 1–5 ✅ [S31][S37]; item 6 ◐ [S30]):
   1. Move slower than everyone around you.
   2. Take the Authority Inventory and pick your lowest component.
   3. Write your limiting belief in plain English and make it your wallpaper.
   4. Practise hearing the self-doubt voice as fiction, or as "a child's voice."
   5. Write one identity statement ("I am the kind of person who…") and act on it daily.
-  6. Each night, write down where you collapsed and where you postured ◐.
+  6. Each night, rate yourself in a journal on the composure scale and the five factors.
 
 ### 6.18 Discipline and habits
 - **What he'd say:** "Be a butler for future you." ✅
@@ -680,10 +688,10 @@ Use this for any goal involving another person.
 ### 7.1 How he talks (✅ observed across both full DOAC transcripts)
 - **Conversational and casual,** with some profanity. He often starts with "So…", says "Yeah" a lot, and checks in with **"Does that make sense?"**
 - **He teaches in acronyms and shapes:** ACSS, PCP, FATE, FEAR, FOG, the five C's, triangles, a pendulum, "two walls and a hallway."
-- **He grounds ideas in the "mammal":** "how would I show this to a dog," "the mammal brain."
+- **He grounds ideas in the "mammal":** "how would I show my goals… to a dog," "show the mammal brain."
 - **He demonstrates live.** On air he sold Steven Bartlett a pen, profiled Steven's answer to "who are you?", and pointed out an elicitation he had just done on him.
 - **He uses vivid analogies:** a pilot's checklist, Harry Potter spells, a swimming pool, Lego bricks, a file clerk, dominoes, a wedge.
-- **He leans on classic studies:** Milgram, Asch, the bystander effect, the "drive safe" sign experiment, Cialdini, Hanns Scharff ("every interrogation system nowadays that's taught is a derivative of [Hanns Scharff's] work" ◐ [S14]).
+- **He leans on classic studies:** Milgram, Asch, the bystander effect, the "drive safe" sign experiment, Cialdini, and the WWII interrogator Hanns Scharff. A transcript excerpt from Rogan #2278 has him tracing modern interrogation to Scharff ◐ [S14]; the exact wording couldn't be re-confirmed.
 - **He tells self-deprecating stories:** the $6K keynote collapse, buying from Instagram ads, struggling to celebrate wins ("shut the [expletive] up and celebrate when there's a win").
 - **He sounds categorical but hedges on certainty:** "I can make you do anything," yet also "we deal in likelihood" and "don't quote me on that number." His statistics vary between tellings.
 - **He gives homework.** He nearly always ends with *one* concrete thing to do this week.
@@ -699,10 +707,10 @@ All of these were checked against the full transcripts unless marked ◐.
 6. "I define discipline as your ability to prioritize the needs of your future self ahead of your own present self." [S31]
 7. "We're manufacturing gut feelings in other people, so our job is to manufacture better gut feelings." [S31]
 8. "Statements are always going to be better than asking pointed questions because a person feels like they're volunteering information." [S31]
-9. "We deal in likelihood, that's all we deal in." [S31]
+9. "If you're in body language, you deal in likelihood. That's all we deal in." [S31]
 10. "I'm not changing your ideas, I'm changing your identity." [S31]
 11. "Be delusionally self-forgiving." [S31]
-12. "Focus, authority, tribe, and emotion. So I have to have focus before authority." [S37]
+12. "Focus, authority, tribe and emotion. Those are the four things that govern a mammal… so I have to have focus before authority." [S37]
 13. "Anything novel hijacks our brain." [S37]
 14. "Language should be resonating and not directing." [S37]
 15. "Any script that you call out, you're weakening its power." [S37]
@@ -711,8 +719,7 @@ All of these were checked against the full transcripts unless marked ◐.
 18. "Identity is the number one thing in the world when it comes to persuasion and influence." [S37]
 19. "These are just contracts that were written in a child's voice." [S37]
 20. "It's supposed to be fun. It's supposed to be a game." [S37]
-21. ◐ "If I can just use one word, it's comfort." [S28]
-22. ◐ "You can have tons of authority, and you're the lowest guy on the totem pole at work." [S28]
+21. ◐ "I'd say confidence is, if I can just use one word, it's comfort." [S30]
 
 ---
 
@@ -721,7 +728,7 @@ All of these were checked against the full transcripts unless marked ◐.
 |---|---|---|
 | Move slower than everyone in the room for a week | Composure and authority | ✅ [S31] |
 | Authority Inventory: rate 1–5 on five components | Find your lowest point | ✅ [S31] / ◐ [S28] |
-| Composure journal: where did I collapse or posture? | Self-awareness | ◐ [S28] |
+| Daily journal: rate yourself on the composure scale and the five factors | Self-awareness | ◐ [S30] |
 | Limiting belief as desktop wallpaper | Hear it as absurd or childish | ✅ [S31][S37] |
 | Childhood triangle: friends, safety, rewards | Find the contracts running you | ✅ [S37] |
 | Age-progressed photo; outcome images on the fridge | Make the future real to the "mammal" | ✅ [S31] / ◐ [S37] |
@@ -730,7 +737,7 @@ All of these were checked against the full transcripts unless marked ◐.
 | Dopamine-map audit | Honest look at reward sources | ✅ [S31] |
 | FATE-spot short-form videos | Media literacy | ✅ [S37] |
 | App limits, with someone else holding the passcode | Defend against feeds | ✅ [S31] |
-| Watch talk-show interviews to learn baselines | Practice reading people | ◐ [S25] |
+| Watch talk-show interviews (e.g. Conan O'Brien) to spot stress cues | Practice reading people | ◐ [S25][S7] |
 | Correct-the-record and bracketing practice | Elicitation skill | ✅ [S31] |
 
 ---
@@ -759,10 +766,13 @@ All of these were checked against the full transcripts unless marked ◐.
 
 ### 10.2 What is overstated or unsupported
 - **Lie detection.**
-  - Research reviews consistently find behavioral cues are weak and inconsistent signs of deception. People, including trained professionals, perform near chance [S52].
-  - Some studies find blink rate *drops* while lying [S52].
-  - The BTE's numeric scores carry "an air of precision that no peer-reviewed validation exists to back up" (Sobrief [S41]).
-- **Rapid profiling and typologies.** The Needs and Decision Maps are field heuristics, not validated personality models. "Profile anyone in six minutes" is an overstatement [S40].
+  - **Accuracy.** A meta-analysis of 206 studies and 24,483 judges found people average about **54% accuracy** at telling lies from truths, barely above chance. Presumed experts did not reliably beat lay judges (Bond & DePaulo 2006) [S52].
+  - **Microexpressions.** A 2020 opinion article calls nonverbal lie-detection research "a blind alley" and says the microexpression idea "has no scientific support" (Brennen & Magnussen) [S52].
+  - **Some researchers disagree in part.** Burgoon (2019) argues that *combining* cues can improve detection, so the debate isn't entirely one-sided [S52].
+  - **Blinking.** Liars blinked *less* while lying and *more* just afterwards, compared with baseline (Leal & Vrij 2008) [S52]. So a blink spike can follow a lie, but blink rate also rises with ordinary stress and mental effort. It is not a reliable lie sign alone.
+  - **Borrowed method.** The "five seconds after the question / clusters of two or more" method mirrors *Spy the Lie* (Houston et al.).
+  - **False precision.** A book summary says the BTE's numeric scores give "an air of precision that no peer-reviewed validation exists to back up" ◐ (Sobrief [S41]). No independent validation of the BTE was found.
+- **Rapid profiling and typologies.** The Needs and Decision Maps are field heuristics, not validated personality models. The promise of profiling someone in six minutes is an overstatement [S40].
 - **Precise-sounding statistics.** Figures such as "99% of the time," "70% longer," "4 million a month" and varying study percentages are his anecdotes or loose retellings.
 - **Hypnosis and memory claims.** Marketing claims about erasing or creating memories go beyond what research supports [S41].
 - **NLP roots.** Several techniques (embedded commands, "trans derivational search," presuppositions) come from NLP, which has weak empirical support [S4].
@@ -823,9 +833,9 @@ See [`FACTCHECK.md`](FACTCHECK.md) for what was re-verified, how, and what was c
 - **[S25]** The Art of Charm #632 — https://theartofcharm.com/podcast-episodes/chase-hughes-the-behavioral-table-of-elements-episode-632/
 - **[S26]** Order of Man #132 — https://orderofman.com/podcasts/132-decoding-deciphering-human-behavior-chase-hughes/
 - **[S27]** Young and Profiting E8 — https://youngandprofiting.com/8-hacking-human-behavior-to-gain-influence-with-chase-hughes/
-- **[S28]** Jordan Harbinger #102 — https://www.jordanharbinger.com/chase-hughes-why-authority-is-more-influential-than-skill/ ; worksheet — https://www.jordanharbinger.com/wp-content/uploads/2018/10/Worksheet-for-Chase-Hughes-Why-Authority-Is-More-Influential-than-Skill-Episode-102.pdf
+- **[S28]** Jordan Harbinger #102 (2 Oct 2018) — https://www.jordanharbinger.com/chase-hughes-why-authority-is-more-influential-than-skill/ ; Hughes Authority Assessment Matrix — https://www.jordanharbinger.com/wp-content/uploads/2018/10/The-Hughes-Authority-Assessment-Matrix.pdf ; worksheet — https://www.jordanharbinger.com/wp-content/uploads/2018/10/Worksheet-for-Chase-Hughes-Why-Authority-Is-More-Influential-than-Skill-Episode-102.pdf
 - **[S29]** Easy Prey (Jul 2023) — https://www.easyprey.com/reading-and-understanding-behavior-with-chase-hughes/
-- **[S30]** Art of Manliness #875 — https://www.artofmanliness.com/social/social-skills/authority-is-more-important-than-social-skills-in-being-influential/
+- **[S30]** Art of Manliness #875, "Authority Is More Important Than Social Skills" (27 Feb 2023) — https://www.artofmanliness.com/people/social-skills/authority-is-more-important-than-social-skills-in-being-influential/
 - **[S31]** **The Diary of a CEO, ep. 1 (26 Dec 2024)** — **(verified)**:
   - full caption transcript — https://github.com/ryan-blunden/doac-guest-questions/blob/main/transcripts/the-behaviour-expert-instantly-read-any-room-how-to-hack-your-discipline-chase-h-RvjR9GM2kX8.md
   - YouTube — https://www.youtube.com/watch?v=RvjR9GM2kX8
@@ -868,7 +878,8 @@ See [`FACTCHECK.md`](FACTCHECK.md) for what was re-verified, how, and what was c
 - **[S49]** Six-Axis Model — https://trishanlekhi.substack.com/p/influence-six-axis-model-planning ; https://quizlet.com/974008480/chase-hughes-abr-flash-cards/
 - **[S51]** Athena Walker — https://athenawalker.substack.com/p/chase-hughes-thinks-he-understands
 - **[S52]** Deception-detection research:
-  - https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.613410/pdf
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393532/
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344437/
-  - https://arxiv.org/pdf/2505.02649
+  - Bond & DePaulo (2006), "Accuracy of deception judgments," *Personality and Social Psychology Review* 10:214–234 — https://pubmed.ncbi.nlm.nih.gov/16859438/
+  - Leal & Vrij (2008), "Blinking during and after lying," *Journal of Nonverbal Behavior* 32:187–194 — https://researchportal.port.ac.uk/en/publications/blinking-during-and-after-lying/
+  - Brennen & Magnussen (2020), "Research on non-verbal signs of lies and deceit: a blind alley," *Frontiers in Psychology* — https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.613410/pdf
+  - Burgoon (2019), *Frontiers in Psychiatry* — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344437/
+  - Levine (2022), *Frontiers in Psychology* — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9393532/
