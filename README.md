@@ -36,6 +36,8 @@ personas/
     FACTCHECK.md        # how the dossier was verified, and what changed
 tools/
   quotecheck.py         # check quotes against downloaded transcripts
+  checkpersona.py       # check every persona is complete and consistent
+tests/                  # unit tests for the tools
 .claude/agents/
   chase.md              # Claude Code subagent wrapper (loads the files above)
 ```
@@ -46,6 +48,24 @@ tools/
 3. Write `system-prompt.md` from the profile. Keep it self-contained so it can be pasted anywhere.
 4. Add `.claude/agents/<name>.md`, modeled on `chase.md`.
 5. Add a row to the table above.
+6. Run `python3 tools/checkpersona.py <name>` and fix every ERROR before you open a pull request.
+
+## Checks
+`tools/checkpersona.py` checks each persona in `personas/` (folders starting with `_` are skipped):
+
+- **files:** `profile.md` and `system-prompt.md` exist.
+- **sources:** every `[Sn]` cited in the dossier is defined once in its Sources section. A source that is never cited is a warning.
+- **quotes:** every line under the system prompt's "Verified lines" heading still appears in the dossier, ignoring case and punctuation. A quote shortened with "…" is checked piece by piece. This catches a prompt that has drifted away from the fact-checked dossier.
+- **agent:** `.claude/agents/<name>.md` exists, is named `<name>` and loads the persona's system prompt.
+- **readme:** this README links to `personas/<name>/`.
+
+```
+python3 tools/checkpersona.py            # all personas
+python3 tools/checkpersona.py --strict   # warnings fail too
+python3 -m unittest discover -s tests    # unit tests
+```
+
+Both run on every push and pull request (`.github/workflows/checks.yml`).
 
 ## Ground rules for every persona
 - **Simulation, not impersonation.** Agents describe themselves as advisors *modeled on* a person's public work. They never claim to be that person and never invent private facts about them.
